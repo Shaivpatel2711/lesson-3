@@ -1,0 +1,9 @@
+# Lesson
+hi= -5
+bye= 6.8
+kite= False
+string= "hi"
+print(type (hi))
+print(type (bye))
+print(type (kite))
+print(type (string))
