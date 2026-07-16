@@ -20,3 +20,8 @@ print("the data type is :" , type(age))
 weight= int(weight)
 print("the data type is :" , type(weight))
 print(weight)
+# Activity 3
+text= str(input("enter a string: "))
+revrese_text= text[::-1]
+text=revrese_text
+print("the reverse of the string is :" , text)
